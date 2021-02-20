@@ -30,7 +30,9 @@
   # 개선사항
   
   1. 확인 이미지를 새로운 윈도우 창이 아닌 기존 Tkinter의 window(root) 에 띄울 수 있는 방법이 있는지.
-  2. 실제 OCR 이 적용된 모습 (BOX의 좌표가 가리키는 곳) 을 같이 첨부 할 수 있어야 한다.
+  2. 실제 OCR 이 적용된 모습 (BOX의 좌표가 가리키는 곳) 을 같이 첨부 할 수 있어야 한다. 
+     (참고 https://stackoverflow.com/questions/23506105/extracting-text-opencv/23565051#23565051 , 
+           https://blog.naver.com/PostView.nhn?blogId=monkey5255&logNo=221598376164&redirect=Dlog&widgetTypeCall=true&directAccess=false)
   3. 창을 일정시간 후에 자동적으로 닫게 한다.
   
   
